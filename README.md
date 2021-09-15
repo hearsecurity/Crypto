@@ -1,6 +1,6 @@
 <h1> Crypto </h1>
 
-<i><h3>Crypto is a tool that finds information about cryptocurrency prices in different currencies. </h3></i>
+<h3>Crypto is a tool that finds information about cryptocurrency prices in different currencies. </h3>
 <br>
 <img src="https://i.imgur.com/FfTdJes.png" width="500" 
 alt="accessibility text">
